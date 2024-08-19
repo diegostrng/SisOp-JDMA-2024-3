@@ -2,8 +2,9 @@
 *                                          *
 * Autor: JD                                *
 * Materia: Sistemas Operativos             *
-* Fecha: 15-08-24                          *
+* Fecha: 18-08-24                          *
 * Tema: Gestion de Memoria                 *
+*  Entrega Tarea Gestion de Memoria        *
 *                                          *
 *******************************************/
 
