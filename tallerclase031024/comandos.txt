@@ -1,3 +1,5 @@
+Estos programas generan una conexión FIFO Unidireccional, enviando mensajes sencillos o strings.
+
 gcc pipeCliente01.c -o Cliente
 
 ./Cliente
