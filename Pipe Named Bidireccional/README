@@ -1,0 +1,13 @@
+Estos dos programas, generan una conexion entre cliente y servidor de forma bidireccional. El cliente envia un string y el servidor lo recibe, lo voltea, y lo envia de regreso.
+
+clienteBidireccional: Este programa crea un FIFO de nombre /tmp/fifo_twoway y envia un mensaje, para que le respondan con el mismo mensaje, pero al reves. Siendo esta una conexion bidireccional.
+
+serverBidireccional: Este programa crea un FIFO de nombre /tmp/fifo_twoway y espera a que el cliente envie un mensajpara responderle con el mismo mensaje de vuelta, pero al reves. Eso es una conexion bidireccional.
+
+Comandos:
+
+gcc clienteBidireccional.c -o Cliente
+./Cliente
+
+gcc serverBidireccional.c -o Servidor
+./Servidor
