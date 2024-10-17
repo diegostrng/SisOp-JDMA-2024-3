@@ -1,0 +1,8 @@
+gcc pipeCliente01.c -o Cliente
+
+./Cliente
+
+gcc pipeServidor01.c -o Servidor
+
+./Servidor
+
