@@ -1,0 +1,1 @@
+Esta carpeta contiene los documentos de Evaluación, con los que hicimos pruebas unitarias para intentar hacer una comparación de qué velocidad tiene la ejecución de un proceso, con uno o tantos hilos, también con diferentes tamaños.
